@@ -1,2 +1,2 @@
 # first_project
-this project was create it to learn and practice GitHub 
+this project was created to learn and practice GitHub 
